@@ -24,7 +24,7 @@ is displayed close the game.
 ## Add Mods
 
 In the Minecraft Launcher, under the Instances tab hover over the Minecraft Forge and click on the file icon,
-this will open the file explorer in the Minecraft directory.then on the top of this page, click the green code button,
+this will open the file explorer in the Minecraft directory. Then on the top of this page, click the green code button,
 then select the download zip option, when downloaded extract the .zip file and put all of the .jar files into the mods folder
 of your minecraft directory
 
